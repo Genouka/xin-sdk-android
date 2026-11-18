@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 检查更新需要访问平台 API；合并到宿主应用清单 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>
